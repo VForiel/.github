@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Security vulnerability
+  - name: 🔒 Security vulnerability
     url: https://github.com/VForiel/.github/blob/main/SECURITY.md
     about: Please report vulnerabilities privately, not in a public issue.

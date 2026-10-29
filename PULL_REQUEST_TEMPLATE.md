@@ -1,14 +1,14 @@
 Closes #
 
-## What changes
+## 🔧 What changes
 
 <!-- What this pull request does, and why. -->
 
-## How it was tested
+## 🧪 How it was tested
 
 <!-- Commands run, screenshots for an interface change. -->
 
-## Checklist
+## ✅ Checklist
 
 - [ ] It answers one issue (linked above) and nothing else.
 - [ ] Tests pass locally; new behaviour has tests.

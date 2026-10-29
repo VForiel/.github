@@ -1,27 +1,27 @@
-name: Feature request
+name: ✨ Feature request
 description: Something the project should do
-labels: [enhancement, triage]
+labels: ["✨ enhancement", "🔍 triage"]
 body:
   - type: textarea
     id: need
     attributes:
-      label: The need
+      label: 🧭 The need
       description: What you are trying to do, and why the project does not let you do it today.
     validations:
       required: true
   - type: textarea
     id: idea
     attributes:
-      label: Your idea
+      label: 💡 Your idea
       description: How it could work. Optional.
   - type: textarea
     id: references
     attributes:
-      label: References
+      label: 📚 References
       description: Paper, formula, similar tool or example, if any.
   - type: checkboxes
     id: help
     attributes:
-      label: Contribution
+      label: 🙌 Contribution
       options:
         - label: I would like to write the pull request myself.
